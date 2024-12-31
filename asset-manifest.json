@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/diipanshuu/linked-list-visualizer/static/css/main.f855e6bc.css",
+    "main.js": "/diipanshuu/linked-list-visualizer/static/js/main.58432c54.js",
+    "static/js/488.f44a0b1b.chunk.js": "/diipanshuu/linked-list-visualizer/static/js/488.f44a0b1b.chunk.js",
+    "index.html": "/diipanshuu/linked-list-visualizer/index.html",
+    "main.f855e6bc.css.map": "/diipanshuu/linked-list-visualizer/static/css/main.f855e6bc.css.map",
+    "main.58432c54.js.map": "/diipanshuu/linked-list-visualizer/static/js/main.58432c54.js.map",
+    "488.f44a0b1b.chunk.js.map": "/diipanshuu/linked-list-visualizer/static/js/488.f44a0b1b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.58432c54.js"
+  ]
+}
